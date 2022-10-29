@@ -1,5 +1,5 @@
 # Ex-06-Feature-Transformation                                                                               
-                                                                                        JANANI D 212220040056
+                                                                                                                             JANANI D 212220040056
 
 ## AIM
 To read the given data and perform Feature Transformation process and save the data to a file. 
