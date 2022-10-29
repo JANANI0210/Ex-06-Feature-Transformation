@@ -134,7 +134,7 @@ plt.show()
 
 # RESULT
 
-Thus the Feature Transformation for the given datasets had been executed successfully
+Thus the Feature Transformation for the given datasets has been executed successfully.
 
 
 
